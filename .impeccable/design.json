@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-06T23:42:04.333626+00:00",
+  "title": "Design System: Dra. Janaína Carvalho",
+  "extensions": {
+    "colorMeta": {
+      "teal": {
+        "displayName": "teal",
+        "role": "primary",
+        "tonalRamp": [
+          "oklch(15% 0.1038 184.7)",
+          "oklch(26% 0.1038 184.7)",
+          "oklch(38% 0.1038 184.7)",
+          "oklch(49% 0.1038 184.7)",
+          "oklch(61% 0.1038 184.7)",
+          "oklch(72% 0.0969 184.7)",
+          "oklch(84% 0.0554 184.7)",
+          "oklch(95% 0.0173 184.7)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "deep": {
+        "displayName": "deep",
+        "role": "primary",
+        "tonalRamp": [
+          "oklch(15% 0.0593 190.1)",
+          "oklch(26% 0.0593 190.1)",
+          "oklch(38% 0.0593 190.1)",
+          "oklch(49% 0.0593 190.1)",
+          "oklch(61% 0.0593 190.1)",
+          "oklch(72% 0.0553 190.1)",
+          "oklch(84% 0.0316 190.1)",
+          "oklch(95% 0.0099 190.1)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "dark": {
+        "displayName": "dark",
+        "role": "primary",
+        "tonalRamp": [
+          "oklch(15% 0.0480 190.9)",
+          "oklch(26% 0.0480 190.9)",
+          "oklch(38% 0.0480 190.9)",
+          "oklch(49% 0.0480 190.9)",
+          "oklch(61% 0.0480 190.9)",
+          "oklch(72% 0.0448 190.9)",
+          "oklch(84% 0.0256 190.9)",
+          "oklch(95% 0.0080 190.9)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "paper": {
+        "displayName": "paper",
+        "role": "neutral",
+        "tonalRamp": [
+          "oklch(15% 0.0028 128.5)",
+          "oklch(26% 0.0028 128.5)",
+          "oklch(38% 0.0028 128.5)",
+          "oklch(49% 0.0028 128.5)",
+          "oklch(61% 0.0028 128.5)",
+          "oklch(72% 0.0026 128.5)",
+          "oklch(84% 0.0015 128.5)",
+          "oklch(95% 0.0005 128.5)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "mist": {
+        "displayName": "mist",
+        "role": "neutral",
+        "tonalRamp": [
+          "oklch(15% 0.0079 177.3)",
+          "oklch(26% 0.0079 177.3)",
+          "oklch(38% 0.0079 177.3)",
+          "oklch(49% 0.0079 177.3)",
+          "oklch(61% 0.0079 177.3)",
+          "oklch(72% 0.0073 177.3)",
+          "oklch(84% 0.0042 177.3)",
+          "oklch(95% 0.0013 177.3)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "ink": {
+        "displayName": "ink",
+        "role": "neutral",
+        "tonalRamp": [
+          "oklch(15% 0.0398 265.8)",
+          "oklch(26% 0.0398 265.8)",
+          "oklch(38% 0.0398 265.8)",
+          "oklch(49% 0.0398 265.8)",
+          "oklch(61% 0.0398 265.8)",
+          "oklch(72% 0.0372 265.8)",
+          "oklch(84% 0.0212 265.8)",
+          "oklch(95% 0.0066 265.8)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "muted": {
+        "displayName": "muted",
+        "role": "neutral",
+        "tonalRamp": [
+          "oklch(15% 0.0257 185.7)",
+          "oklch(26% 0.0257 185.7)",
+          "oklch(38% 0.0257 185.7)",
+          "oklch(49% 0.0257 185.7)",
+          "oklch(61% 0.0257 185.7)",
+          "oklch(72% 0.0240 185.7)",
+          "oklch(84% 0.0137 185.7)",
+          "oklch(95% 0.0043 185.7)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "line": {
+        "displayName": "line",
+        "role": "neutral",
+        "tonalRamp": [
+          "oklch(15% 0.0200 172.7)",
+          "oklch(26% 0.0200 172.7)",
+          "oklch(38% 0.0200 172.7)",
+          "oklch(49% 0.0200 172.7)",
+          "oklch(61% 0.0200 172.7)",
+          "oklch(72% 0.0186 172.7)",
+          "oklch(84% 0.0106 172.7)",
+          "oklch(95% 0.0033 172.7)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "salmon": {
+        "displayName": "salmon",
+        "role": "secondary",
+        "tonalRamp": [
+          "oklch(15% 0.0524 40.6)",
+          "oklch(26% 0.0524 40.6)",
+          "oklch(38% 0.0524 40.6)",
+          "oklch(49% 0.0524 40.6)",
+          "oklch(61% 0.0524 40.6)",
+          "oklch(72% 0.0490 40.6)",
+          "oklch(84% 0.0280 40.6)",
+          "oklch(95% 0.0087 40.6)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "gold": {
+        "displayName": "gold",
+        "role": "secondary",
+        "tonalRamp": [
+          "oklch(15% 0.1400 70.1)",
+          "oklch(26% 0.1400 70.1)",
+          "oklch(38% 0.1400 70.1)",
+          "oklch(49% 0.1400 70.1)",
+          "oklch(61% 0.1400 70.1)",
+          "oklch(72% 0.1307 70.1)",
+          "oklch(84% 0.0747 70.1)",
+          "oklch(95% 0.0233 70.1)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "sky": {
+        "displayName": "sky",
+        "role": "secondary",
+        "tonalRamp": [
+          "oklch(15% 0.1390 232.7)",
+          "oklch(26% 0.1390 232.7)",
+          "oklch(38% 0.1390 232.7)",
+          "oklch(49% 0.1390 232.7)",
+          "oklch(61% 0.1390 232.7)",
+          "oklch(72% 0.1297 232.7)",
+          "oklch(84% 0.0741 232.7)",
+          "oklch(95% 0.0232 232.7)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      },
+      "white": {
+        "displayName": "white",
+        "role": "neutral",
+        "tonalRamp": [
+          "oklch(15% 0.0000 89.9)",
+          "oklch(26% 0.0000 89.9)",
+          "oklch(38% 0.0000 89.9)",
+          "oklch(49% 0.0000 89.9)",
+          "oklch(61% 0.0000 89.9)",
+          "oklch(72% 0.0000 89.9)",
+          "oklch(84% 0.0000 89.9)",
+          "oklch(95% 0.0000 89.9)"
+        ],
+        "rampPurpose": "Escala sintetizada para visualização; não define novas cores de produção."
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero e destaque editorial."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Títulos de seção."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Leitura contínua."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "CTA e navegação."
+      }
+    },
+    "shadows": [
+      {
+        "name": "floating-contact",
+        "value": "0 6px 25px #103d3b26",
+        "purpose": "Contato persistente."
+      },
+      {
+        "name": "mobile-navigation",
+        "value": "0 18px 30px #123c3712",
+        "purpose": "Menu móvel aberto."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(.23,1,.32,1)",
+        "purpose": "Entradas e feedback de transformação."
+      },
+      {
+        "name": "hero-entry",
+        "value": "800ms; stagger 70ms",
+        "purpose": "Primeira entrada tipográfica."
+      },
+      {
+        "name": "section-entry",
+        "value": "650ms",
+        "purpose": "Entrada única ao aparecer na viewport."
+      },
+      {
+        "name": "reduced-entry",
+        "value": "200ms; opacity only",
+        "purpose": "Preferência por movimento reduzido."
+      },
+      {
+        "name": "hover",
+        "value": "200ms",
+        "purpose": "Mudança de cor."
+      },
+      {
+        "name": "press",
+        "value": "160ms; scale(.98)",
+        "purpose": "Pressão de CTA."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-phone",
+        "value": "374px"
+      },
+      {
+        "name": "mobile",
+        "value": "767px"
+      },
+      {
+        "name": "compact-navigation",
+        "value": "1023px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1199px"
+      },
+      {
+        "name": "wide",
+        "value": "1600px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "CTA principal",
+      "kind": "button",
+      "description": "Contato pelo WhatsApp sobre superfície clara.",
+      "html": "<a class=\"ds-button\" href=\"#\">Agendar consulta<svg width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M7 17 17 7M7 7h10v10\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:space-between;gap:32px;padding:17px 22px 17px 25px;min-height:58px;background:var(--deep);color:#fff;font-size:12px;font-weight:500;letter-spacing:.015em;border-radius:3px;transition:background-color 200ms ease,transform 160ms var(--ease-out)}.ds-button:hover{background:#086c63}.ds-button:active{transform:scale(.98)}.ds-button:focus-visible{outline:3px solid var(--teal);outline-offset:6px} .ds-button{padding:10px 11px 10px 23px;min-height:62px;font-size:16px;font-weight:600;border-radius:8px}",
+      "refersTo": "button-primary"
+    },
+    {
+      "name": "CTA claro",
+      "kind": "button",
+      "description": "Contato sobre superfície profunda.",
+      "html": "<a class=\"ds-button ds-light\" href=\"#\">Agendar uma conversa<svg width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M7 17 17 7M7 7h10v10\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:space-between;gap:32px;padding:17px 22px 17px 25px;min-height:58px;background:var(--deep);color:#fff;font-size:12px;font-weight:500;letter-spacing:.015em;border-radius:3px;transition:background-color 200ms ease,transform 160ms var(--ease-out)}.ds-button:hover{background:#086c63}.ds-button:active{transform:scale(.98)}.ds-button:focus-visible{outline:3px solid var(--teal);outline-offset:6px}.ds-light{background:var(--mist);color:var(--dark)}.ds-light:hover{background:#d5e7de}.ds-light:focus-visible{outline-color:var(--salmon)} .ds-button{padding:10px 11px 10px 23px;min-height:62px;font-size:16px;font-weight:600;border-radius:8px}",
+      "refersTo": "button-light"
+    },
+    {
+      "name": "Link de texto",
+      "kind": "button",
+      "description": "Ação editorial discreta.",
+      "html": "<a class=\"ds-button ds-text\" href=\"#\">Conheça o atendimento<svg width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M7 17 17 7M7 7h10v10\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:space-between;gap:32px;padding:17px 22px 17px 25px;min-height:58px;background:var(--deep);color:#fff;font-size:12px;font-weight:500;letter-spacing:.015em;border-radius:3px;transition:background-color 200ms ease,transform 160ms var(--ease-out)}.ds-button:hover{background:#086c63}.ds-button:active{transform:scale(.98)}.ds-button:focus-visible{outline:3px solid var(--teal);outline-offset:6px}.ds-text{padding:10px 0;background:none;color:var(--deep);min-height:48px;justify-content:flex-start;border-bottom:1px solid var(--deep);border-radius:0}.ds-text:hover{background:none;color:#08766c} .ds-button{padding:10px 11px 10px 23px;min-height:62px;font-size:16px;font-weight:600;border-radius:8px}",
+      "refersTo": "button-text"
+    },
+    {
+      "name": "CTA do cabeçalho",
+      "kind": "button",
+      "description": "Agendamento compacto com contorno.",
+      "html": "<a class=\"ds-header\" href=\"#\">Agendar consulta<svg width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M7 17 17 7M7 7h10v10\"/></svg></a>",
+      "css": ".ds-header{display:flex;align-items:center;gap:21px;min-height:45px;padding:10px 18px;border:1px solid #a9c7bd;border-radius:3px;font-size:11px;font-weight:600;color:var(--deep);transition:background-color 200ms ease,transform 160ms var(--ease-out)}.ds-header:hover{background:#deeee7}.ds-header:active{transform:scale(.98)}.ds-header:focus-visible{outline:3px solid var(--teal);outline-offset:6px}",
+      "refersTo": "header-cta"
+    },
+    {
+      "name": "Navegação desktop",
+      "kind": "nav",
+      "description": "Traço indica hover ou seção atual; sem ativo no hero.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#\">Sobre</a><a href=\"#\" aria-current=\"location\">Tratamentos</a></nav>",
+      "css": ".ds-nav{display:flex;gap:34px;align-items:center;margin-left:auto;margin-right:38px}.ds-nav a{font-size:12px;font-weight:500;position:relative;padding-block:16px;color:#465953}.ds-nav a::after{content:'';position:absolute;bottom:8px;left:0;width:100%;height:1px;background:var(--teal);transform:scaleX(0);transform-origin:left;transition:transform 200ms var(--ease-out)}.ds-nav a:hover::after,.ds-nav a[aria-current]::after{transform:scaleX(1)}.ds-nav a:focus-visible{outline:3px solid var(--teal);outline-offset:6px}"
+    },
+    {
+      "name": "Lista expansível",
+      "kind": "custom",
+      "description": "Details nativo usado nos tratamentos.",
+      "html": "<details class=\"ds-detail\"><summary>DTM e dor orofacial<svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><path d=\"M12 5v14M5 12h14\"/></svg></summary><p>O atendimento começa pela escuta e pela avaliação individual.</p></details>",
+      "css": ".ds-detail{border-top:1px solid #b4cbc2}.ds-detail summary{-webkit-tap-highlight-color:transparent}.ds-detail>summary{padding:25px 0;font-size:18px;line-height:1.5;color:var(--deep);font-family:var(--font-display);letter-spacing:-.015em}.ds-detail summary::-webkit-details-marker{display:none}.ds-detail summary>svg{transition:transform 200ms var(--ease-out)}.ds-detail[open]>summary>svg{transform:rotate(45deg)}.ds-detail summary:focus-visible{outline:3px solid var(--teal);outline-offset:6px}.ds-detail p{font:15px/1.9 var(--font-sans);color:var(--muted);padding:0 42px 28px 0}"
+    },
+    {
+      "name": "Contato flutuante",
+      "kind": "button",
+      "description": "Controle circular persistente; posição fixa pertence à página.",
+      "html": "<a class=\"ds-floating\" href=\"#\" aria-label=\"Conversar pelo WhatsApp\"><svg width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M7 17 17 7M7 7h10v10\"/></svg></a>",
+      "css": ".ds-floating{z-index:20;background:var(--deep);color:#fff;display:flex;gap:11px;align-items:center;padding:15px;border-radius:50%;box-shadow:0 6px 25px #103d3b26;border:1px solid #80aaa0;transition:background-color 200ms ease,transform 160ms var(--ease-out)}.ds-floating{width:fit-content}.ds-floating:hover{background:#08766c;transform:translateY(-3px)}.ds-floating:focus-visible{outline:3px solid var(--teal);outline-offset:6px}",
+      "refersTo": "floating-contact"
+    }
+  ],
+  "narrative": {
+    "description": "Identidade oficial preservada; tipografia revisada a pedido do usuário para Sora e Source Sans 3; nove seções e onze avaliações com iniciais.",
+    "sourceOfTruth": "DESIGN.md, src/styles.css e src/refinements.css",
+    "reviews": "Onze relatos com redação original, sem fotos; scroll-snap, teclado e expansão."
+  }
+}

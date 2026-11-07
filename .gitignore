@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.prerender/
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+graphify-out/
+Fotos_Dra_Jana*na_Carvalho_Carneiro_Silva/
