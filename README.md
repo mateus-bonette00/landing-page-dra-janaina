@@ -1,6 +1,6 @@
 # Dra. Janaína Carvalho
 
-Landing page em React + Vite + TypeScript. Desenvolvimento local, sem publicação.
+Landing page em React + Vite + TypeScript.
 
 ## Executar
 

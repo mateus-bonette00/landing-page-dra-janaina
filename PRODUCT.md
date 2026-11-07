@@ -5,7 +5,7 @@
 web
 
 ## Stack
-React, Vite e TypeScript. Tailwind CSS, Motion e GSAP conforme benefício real. Sem Next.js. Aplicação local; publicação não autorizada.
+React, Vite e TypeScript. Tailwind CSS, Motion e GSAP conforme benefício real. Sem Next.js.
 
 ## Users
 Pessoas buscando atendimento odontológico em Itajubá, em especial mulheres de 25 a 45 anos com DTM, conforme briefing. Atendimento geral adulto e infantil.
